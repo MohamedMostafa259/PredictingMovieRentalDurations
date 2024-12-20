@@ -82,11 +82,11 @@ Visualized feature importance using Gradient Boosting Regressor to interpret mod
 
 - The recommended model is **Gradient Boosting Regressor** with tuned hyperparameters:
 
-  - **n_estimators**: Optimized between 94.
+  - Optimized  n_estimators: 94.
 
-  - **max_depth**: Optimized between 8.
+  - Optimized  max_depth: 8.
 
-- Test MSE: 1.96 (Achieved below 3.0).
+- Test **MSE**: **1.96** (Achieved below 3.0).
 
 - No overfitting detected, as cross-validation MSE closely matches training MSE.
 
